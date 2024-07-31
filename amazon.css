@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
+body{
+    /*background-color: rgb(11, 11, 53,1);*/
+    height: 700px;
+}
+button{
+    background-color: #f08804;
+    border-radius: 5px;
+    border-color: white;
+}
+#logo{
+    font-size: 25px;
+    color:#f08804;
+    text-decoration: none;
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 40px;
+    margin-left: 15px;
+}
+a{
+    text-decoration: none;
+    margin-right: 225px;
+    margin-top: 500px;
+}
+input{
+    color:black;
+}
+#main{
+    height:300px;
+}
+#footer{
+    background-color: rgb(1, 1, 52);
+    height: 400px;
+}
+#help{
+    height: 200px;
+    display: inline-block;
+    margin-bottom: 40px;
+    margin-left: 120px;
+    margin-top: 100px;
+    margin-right: 90px;
+}
+#headings{
+    text-align: right;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    line-height: 34px;
+    text-transform: capitalize;
+}
